@@ -1,0 +1,9 @@
+D:\Task3\DrawLines\DrawLines\bin\Debug\DrawLines.exe.config
+D:\Task3\DrawLines\DrawLines\bin\Debug\DrawLines.exe
+D:\Task3\DrawLines\DrawLines\bin\Debug\DrawLines.pdb
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.Form1.resources
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.exe
+D:\Task3\DrawLines\DrawLines\obj\Debug\DrawLines.pdb
